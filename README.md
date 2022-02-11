@@ -1,2 +1,2 @@
-# MyMallDemo
-商城
+# luban-mall
+鲁班商城 后台代码
